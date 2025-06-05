@@ -1,8 +1,8 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">About me</h1>
 
 ###
 
-<p align="left">- Java Developer<br>- Sites Developer<br>- Figma Design<br><br>- Intermediate English</p>
+<p align="left">- Java Developer<br>- React JS Developer<br>- Power BI<br>- Sites Developer<br>- Figma Design<br><br>- Intermediate English</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="center">Projeto 1 - Figma</h1>
+<h1 align="center">Projeto Figma - App de vendas(Unistore) </h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h1 align="center">Projeto 2 - Figma</h1>
+<h1 align="center">Projeto Figma - Site de venda de ingressos</h1>
 
 ###
 
@@ -69,6 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mayrakeylla/mayrakeylla/output/snake.svg" alt="Snake animation" />
+
 
 ###
